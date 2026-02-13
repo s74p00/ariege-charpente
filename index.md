@@ -3,6 +3,9 @@ title: "Accueil"
 order: 2
 in_menu: true
 ---
+# Accueil 
+---
+
 **Bienvenue chez Ariège Charpente – L'Art de la Charpente Traditionnelle & Moderne**
 
 Depuis 2020, nous façonnons le bois avec passion et savoir-faire, alliant **tradition** et **innovation**. Charpentiers passionnées, nous mettons notre expertise au service de vos projets, qu’il s’agisse de **charpentes traditionnelles**, d’**ossatures bois** ou de structures sur mesure.
