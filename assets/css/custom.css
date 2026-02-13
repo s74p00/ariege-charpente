@@ -8,3 +8,7 @@
     max-height: 30px;
     overflow: hidden; 
 }
+#footer * {
+    line-height: 30px; /* Aligne le texte verticalement */
+    vertical-align: middle; /* Optionnel, pour un meilleur alignement */
+}
