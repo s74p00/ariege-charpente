@@ -16,4 +16,4 @@ Que vous rêviez d’une charpente apparente pour une maison à colombages, d’
 
 **Votre projet mérite le meilleur du bois.** Parlons-en ensemble.
 
-*Ariège Charpente – Bâtir aujourd’hui, pour durer demain.* 
+# **Ariège Charpente – Bâtir aujourd’hui, pour durer demain.** 
