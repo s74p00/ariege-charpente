@@ -1,17 +1,18 @@
 ---
-title: Activités
+title: "Activités"
 order: 1
+in_menu: true
 ---
+---
+**Bienvenue chez Ariège Charpente – L'Art de la Charpente Traditionnelle & Moderne**
 
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+Depuis 2020, nous façonnons le bois avec passion et savoir-faire, alliant **tradition** et **innovation**. Charpentiers passionnées, nous mettons notre expertise au service de vos projets, qu’il s’agisse de **charpentes traditionnelles**, d’**ossatures bois** ou de structures sur mesure.
 
-## Nos activités
+**Respect des essences, durabilité et esthétique** guident chaque réalisation. Nous privilégions des bois locaux et certifiés, sélectionnés pour leur qualité et leur résistance, afin de vous offrir des ouvrages **solides, écologiques et intemporels**.
 
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
+Que vous rêviez d’une charpente apparente pour une maison à colombages, d’une extension en ossature bois ou d’une rénovation dans les règles de l’art, nous vous accompagnons **de l’étude à la pose**, avec rigueur et créativité.
 
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+**Votre projet mérite le meilleur du bois.** Parlons-en ensemble.
+
+*Ariège Charpente – Bâtir aujourd’hui, pour durer demain.*
+--- 
