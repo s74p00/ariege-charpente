@@ -10,6 +10,6 @@
     height: 30px;
 }
 #footer * {
-    line-height: 30px; /* Aligne le texte verticalement */
+    visibility: hidden; 
     vertical-align: middle; /* Optionnel, pour un meilleur alignement */
 }
