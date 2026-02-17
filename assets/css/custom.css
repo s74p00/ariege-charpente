@@ -2,7 +2,10 @@
     --couleur-primaire : #0E6270;
 }
 
-
+footer, .skip-links{
+    display: none;
+}
+/*
 #footer {
     position: fixed;
     bottom: 0;
@@ -10,9 +13,10 @@
     height: 30px;
 }
 #footer * {
-   vertical-align: middle; /* Optionnel, pour un meilleur alignement */
+   vertical-align: middle; 
 }
 
 #footer .container #nav h2 {
    visibility: hidden; 
 }
+*/
