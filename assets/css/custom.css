@@ -10,6 +10,6 @@
     height: 30px;
 }
 #footer * {
-    visibility: hidden; 
+   /* visibility: hidden; */
     vertical-align: middle; /* Optionnel, pour un meilleur alignement */
 }
