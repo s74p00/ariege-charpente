@@ -30,10 +30,6 @@ table {
 footer, .skip-links{
     display: none;
 }
-nav ul::before {
-  content: "☞";
-  width: 25px;
-}
 
 #inktree {
 background-color: blue ;
