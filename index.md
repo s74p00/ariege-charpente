@@ -18,7 +18,7 @@ Que vous rêviez d’une charpente apparente pour une maison à colombages, d’
 
 
 <small>
-*Pourquoi ce site est si basique ?
+Pourquoi ce site est si basique ?
 Parce qu’on fait du numérique engagé : pour le bien commun, sobre, accessible, centré utilisateur·ice.
-Pour ce site-ci, nous utilisons [Scribouilli](https://scribouilli.org) un logiciel libre qui permet de créer des mini-sites.*
+Pour ce site-ci, nous utilisons [Scribouilli](https://scribouilli.org) un logiciel libre qui permet de créer des mini-sites.
 </small>
