@@ -1,6 +1,12 @@
 :root {
-    --couleur-primaire : #0E6270;
+    --couleur-primaire : #53606C;
 }
+
+body {
+color: #fff;
+background-color:#1f222a;
+}
+
 
 footer, .skip-links{
     display: none;
