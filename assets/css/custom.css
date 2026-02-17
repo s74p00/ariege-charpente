@@ -34,10 +34,9 @@ footer, .skip-links{
 #inktree {
 background-color: blue ;
 }
-small {
+
+p.resp {
 font-size: 0.65rem;
 font-family: Courier New, monospace;
-}
-div small {
 line-height: 10px;
 }
