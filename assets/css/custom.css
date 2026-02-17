@@ -13,3 +13,7 @@
    /* visibility: hidden; */
     vertical-align: middle; /* Optionnel, pour un meilleur alignement */
 }
+
+footer#footer div.container div#nav h2 {
+   /visibility: hidden; 
+}
