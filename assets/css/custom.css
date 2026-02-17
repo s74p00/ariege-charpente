@@ -34,3 +34,6 @@ footer, .skip-links{
 #inktree {
 background-color: blue ;
 }
+small {
+font-size: 0.4rem;
+}
