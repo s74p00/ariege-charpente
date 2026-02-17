@@ -14,3 +14,8 @@ Que vous rêviez d’une charpente apparente pour une maison à colombages, d’
 **Votre projet mérite le meilleur du bois.** Parlons-en ensemble.
 
 ## **Ariège Charpente – Bâtir aujourd’hui, pour durer demain.** 
+
+
+*Pourquoi ce site est si basique ?
+Parce qu’on fait du numérique engagé : pour le bien commun, sobre, accessible, centré utilisateur·ice.
+Pour ce site-ci, nous utilisons [Scribouilli](https://scribouilli.org) un logiciel libre qui permet de créer des mini-sites.*
