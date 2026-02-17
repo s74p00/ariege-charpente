@@ -8,7 +8,7 @@ in_menu: true
 
 **Bienvenue chez Ariège Charpente – L'Art de la Charpente Traditionnelle & Moderne**
 
-Depuis 2020, nous façonnons le bois avec passion et savoir-faire, alliant **tradition** et **innovation**. Charpentiers passionnées, nous mettons notre expertise au service de vos projets, qu’il s’agisse de **charpentes traditionnelles**, d’**ossatures bois** ou de structures sur mesure.
+Depuis 2020, nous façonnons le bois avec passion et savoir-faire, alliant **tradition** et **innovation**. Charpentiers passionnées, nous mettons notre expertise au service de vos projets, qu’il s’agisse de **charpentes traditionnelles**, d’**ossatures bois** ou de structures sur mesure. ![Escalier sur Mesure]({% link images/escalier.jpeg %})
 
 **Respect des essences, durabilité et esthétique** guident chaque réalisation. Nous privilégions des bois locaux et certifiés, sélectionnés pour leur qualité et leur résistance, afin de vous offrir des ouvrages **solides, écologiques et intemporels**.
 
