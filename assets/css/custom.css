@@ -10,8 +10,7 @@
     height: 30px;
 }
 #footer * {
-   /* visibility: hidden; */
-    vertical-align: middle; /* Optionnel, pour un meilleur alignement */
+   vertical-align: middle; /* Optionnel, pour un meilleur alignement 
 }
 
 #footer .container #nav h2 {
