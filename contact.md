@@ -11,9 +11,9 @@ Nous essayons d'etre le  plus ré actif sachant que notre priorité reste les ch
 
 Pour nous contacter : [contact@ariege.charpente](mailto:contact@ariege.charpente)
 
-
+<p class="encart">
 Adresse : **1 rue de la route**
-
+<br>
 Téléphone : **06 00 00 00 00**
-
+</p>
 --- 
