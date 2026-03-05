@@ -1,7 +1,7 @@
 ---
 title: "Accueil"
 order: 1
-in_menu: false
+in_menu: true
 ---
 ## Bienvenue chez Ariège Charpente
 ### L'Art de la Charpente Traditionnelle & Moderne

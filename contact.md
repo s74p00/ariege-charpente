@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 order: 1
-in_menu: false
+in_menu: true
 ---
 ---
 **Ariège Charpente – Contact**
