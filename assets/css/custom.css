@@ -28,28 +28,13 @@ table {
   border-collapse: collapse;
 }
 
-/*
-footer, .skip-links{
+#nav ~ ul, 
+h2#nav {
     display: none;
 }
-*/
 
 #inktree {
 background-color: blue ;
-}
-
-footer {
-    display: none;
-}
-
-/* Cache le menu dupliqué en bas de page sur mobile */
-#nav {
-    display: none;
-}
-
-/* Mais affiche la nav principale en haut */
-header nav, [href="#nav"] {
-    display: block;
 }
 
 p.resp {
