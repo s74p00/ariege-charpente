@@ -42,8 +42,13 @@ footer {
     display: none;
 }
 
-/* Mais on récupère la nav si elle est dans le footer */
-footer nav {
+/* Cache le menu dupliqué en bas de page sur mobile */
+#nav {
+    display: none;
+}
+
+/* Mais affiche la nav principale en haut */
+header nav, [href="#nav"] {
     display: block;
 }
 
