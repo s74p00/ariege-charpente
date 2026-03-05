@@ -35,6 +35,11 @@ footer, .skip-links{
 background-color: blue ;
 }
 
+nav ul::before {
+  content: "🐝";
+  width: 25px;
+}
+
 p.resp {
 font-size: 0.75rem;
 font-family: Courier New, monospace;
