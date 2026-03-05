@@ -27,17 +27,21 @@ table {
   width: 100%;
   border-collapse: collapse;
 }
-footer, .skip-links{
+*/footer, .skip-links{
     display: none;
-}
+}*/
 
 #inktree {
 background-color: blue ;
 }
 
-nav ul::before {
-  content: "🐝";
-  width: 25px;
+footer {
+    display: none;
+}
+
+/* Mais on récupère la nav si elle est dans le footer */
+footer nav {
+    display: block;
 }
 
 p.resp {
