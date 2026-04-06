@@ -47,7 +47,7 @@ line-height: 0.7rem;
 display: flex;
 }
 
-div.container p img  {
+img.illus  {
 padding: 5px ;
 border: 1px solid white;
 max-width: 95%; !important
