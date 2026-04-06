@@ -44,8 +44,7 @@ line-height: 0.7rem;
 }
 
 .nobr {
-white-space: nowrap; 
-width: 100%;
+display: flex;
 }
 
 div.container p img  {
