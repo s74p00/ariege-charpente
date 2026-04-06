@@ -43,7 +43,7 @@ font-family: Courier New, monospace;
 line-height: 0.7rem;
 }
 
-p.nobr {
+.nobr {
 white-space: nowrap; 
 width: 100%;
 }
