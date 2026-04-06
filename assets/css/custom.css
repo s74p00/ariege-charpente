@@ -45,6 +45,7 @@ line-height: 0.7rem;
 
 p.nobr {
 white-space: nowrap; 
+width: 100%;
 }
 
 div.container p img  {
