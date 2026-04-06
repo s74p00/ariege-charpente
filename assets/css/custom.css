@@ -42,3 +42,9 @@ font-size: 0.75rem;
 font-family: Courier New, monospace;
 line-height: 0.7rem;
 }
+
+div.container p img  {
+padding:5px ;
+margin: 5px;
+}
+
