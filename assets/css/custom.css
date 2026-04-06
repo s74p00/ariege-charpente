@@ -45,5 +45,6 @@ line-height: 0.7rem;
 
 div.container p img  {
 padding: 5px ;
+border: 1px solid white;
 }
 
