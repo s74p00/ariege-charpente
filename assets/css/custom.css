@@ -43,6 +43,10 @@ font-family: Courier New, monospace;
 line-height: 0.7rem;
 }
 
+p.nobr {
+white-space: nowrap; 
+}
+
 div.container p img  {
 padding: 5px ;
 border: 1px solid white;
