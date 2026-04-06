@@ -16,7 +16,7 @@ Que vous rêviez d’une charpente apparente pour une maison à colombages, d’
 
 ## **Ariège Charpente – Bâtir aujourd’hui, pour durer demain.** 
 
-![En Chantier !]({% link images/IMG_8717.jpg %})
+![En Chantier !]({% link images/IMG_8717.jpg %}) | ![Ballustrade en Chêne]({% link images/IMG_8732.jpg %})
 <br><br>
 
 <p class="resp">
